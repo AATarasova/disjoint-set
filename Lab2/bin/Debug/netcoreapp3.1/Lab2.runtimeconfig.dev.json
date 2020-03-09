@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\axaxa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\axaxa\\.nuget\\packages"
+    ]
+  }
+}
